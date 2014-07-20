@@ -1,0 +1,12 @@
+{
+	"name": "nw-demo",
+	"main": "index.html",
+	"window": {
+		"title": "VK.com Music Sync",
+//		"toolbar": false,
+		"width": 1024,
+		"height": 768,
+		"position": "center",
+		"resizable": false
+	}
+}
